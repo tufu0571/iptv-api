@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-01 06:30:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-01 18:32:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2805,6 +2805,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 快乐垂钓,https://migu.188766.xyz/?migutoken=1cec33b8a7faebb61da8af030d76f763&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=86165d10708f6e3f3092e633ee867392&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=35cb5bfc764d69075b885b21f4e0d062&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+快乐垂钓,https://migu.188766.xyz/?migutoken=1a8bb93c935fc71f70dc5d2df8af0545&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
@@ -2835,6 +2836,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://migu.188766.xyz/?migutoken=34fb20f1f773d04931fe481f123355c8&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=4e2912813962397e94ec22ab11db7c1f&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=0e568dbf7d9f23719631234b30e4be53&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+新动漫,https://migu.188766.xyz/?migutoken=ab030af4a8fb0c7e21583d94510ef1ba&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 青春动漫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 青春动漫,https://live.v1.mk/api/bestv.php?id=qcdm8m/8000000
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630

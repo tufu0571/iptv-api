@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tufu0571/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-01 06:30:16
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-01 18:32:23
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -5467,6 +5467,8 @@ https://migu.188766.xyz/?migutoken=1cec33b8a7faebb61da8af030d76f763&id=%E5%BF%AB
 https://migu.188766.xyz/?migutoken=86165d10708f6e3f3092e633ee867392&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 https://migu.188766.xyz/?migutoken=35cb5bfc764d69075b885b21f4e0d062&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+https://migu.188766.xyz/?migutoken=1a8bb93c935fc71f70dc5d2df8af0545&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
 https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="🪁动画频道",卡酷动画
@@ -5523,6 +5525,8 @@ https://migu.188766.xyz/?migutoken=34fb20f1f773d04931fe481f123355c8&id=%E6%96%B0
 https://migu.188766.xyz/?migutoken=4e2912813962397e94ec22ab11db7c1f&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 #EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
 https://migu.188766.xyz/?migutoken=0e568dbf7d9f23719631234b30e4be53&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/新动漫.png" group-title="🪁动画频道",新动漫
+https://migu.188766.xyz/?migutoken=ab030af4a8fb0c7e21583d94510ef1ba&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青春动漫.png" group-title="🪁动画频道",青春动漫
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288008/index.m3u8?channel-id=bestzb&Contentid=5000000011000288008&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="青春动漫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青春动漫.png" group-title="🪁动画频道",青春动漫
