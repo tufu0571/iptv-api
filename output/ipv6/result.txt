@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-02 07:17:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-07-06 22:04:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1274,6 +1274,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=0b098dacc102233a3be1f329726467de&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260531060158&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.81.250&SecurityKey=20260531060158&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=d5a443bd53724f94714ca5f54110929a&ddCalcu=ad95v2aa94l04a131b4d55f357a2c44f1974&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=c782392b1100b6b1856225d9c0851116&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260601060157&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.81.250&SecurityKey=20260601060157&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=ZQ-A1-9.5.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ce657ae18910c286640961c3634df26f&ddCalcu=fc6ev26af5ld7a4a3e6138c911609c024866&sv=10004&ct=android
 宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=8e4d0d303e7cda020db4426d17c177dd&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260626062055&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.98.61.247&SecurityKey=20260626062055&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=966884099a3d9196c497dfbb07c7d01a&ddCalcu=a916v06ad8l78ac47009b9baf3dd799149c6&sv=10004&ct=android
+宜兴新闻,http://gslbmgsplive.miguvideo.com/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=45c56fe99536570aee80541fbe1dd7e9&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260706062108&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=39.103.182.111&SecurityKey=20260706062108&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=f694c6804c0f0964ef6b1a1684511b3f&ddCalcu=ff36vb9a14l1ca564880641ca01fb069f6e4&sv=10004&ct=android
 宿迁公共,http://iptv.666230.xyz/iptv/jsyd.php/G_SQGG
 常州公共,http://iptv.666230.xyz/iptv/jsyd.php/jsczgonggong
 常州生活,http://iptv.666230.xyz/iptv/jsyd.php/jsczshenghuo
@@ -1942,6 +1943,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
 洛阳文旅,https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8
+洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1745796321&key=fe18400b0aeee777efcd1e3282435d28
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1746307365&key=d2cc347e46058bc7b0e9200005d7f1ca
